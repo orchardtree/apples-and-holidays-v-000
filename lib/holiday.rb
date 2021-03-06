@@ -145,7 +145,6 @@ end
   #   }
   # }
 
-
 def all_supplies_in_holidays(holiday_hash)
   # iterate through holiday_hash and print items such that your readout resembles:
   # Winter:
